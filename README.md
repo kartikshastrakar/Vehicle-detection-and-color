@@ -5,5 +5,5 @@ Background subtraction is a simple yet effective technique to extract objects fr
 The sample output is shown below.
 ![](https://github.com/kartikshastrakar/Vehicle-detection-and-color/blob/main/car%20detection.gif)
 ![](https://github.com/kartikshastrakar/Vehicle-detection-and-color/blob/main/cars.gif)
-![]()
+![](https://github.com/kartikshastrakar/Vehicle-detection-and-color/blob/main/colors.gif)
 
